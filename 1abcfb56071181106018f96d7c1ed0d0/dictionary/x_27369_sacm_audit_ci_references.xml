@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CI References" max_length="40" name="x_27369_sacm_audit_ci_references" sizeclass="8" type="collection">
+        <element label="Comments" max_length="4000" name="comments" type="string"/>
+        <element label="Configuration Item" max_length="32" name="configuration_item" reference="cmdb_ci" type="reference"/>
+        <element choice="3" label="Is CI Referenced" max_length="40" name="is_ci_referenced" type="boolean">
+            <choice/>
+        </element>
+        <element label="Referenced Items" max_length="4000" name="referenced_items" type="string"/>
+        <index name="index">
+            <element name="configuration_item"/>
+        </index>
+    </element>
+</database>

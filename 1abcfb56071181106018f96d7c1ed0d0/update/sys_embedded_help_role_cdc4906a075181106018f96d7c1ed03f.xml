@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_27369_sacm_audit.ci_references_user" name="x_27369_sacm_audit.ci_references_user">b0c4906a075181106018f96d7c1ed03c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 18:57:05</sys_created_on>
+        <sys_id>cdc4906a075181106018f96d7c1ed03f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0c4906a075181106018f96d7c1ed03c</sys_name>
+        <sys_package display_value="SACM Audit CIs" source="x_27369_sacm_audit">1abcfb56071181106018f96d7c1ed0d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SACM Audit CIs">1abcfb56071181106018f96d7c1ed0d0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cdc4906a075181106018f96d7c1ed03f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-29 18:57:05</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
